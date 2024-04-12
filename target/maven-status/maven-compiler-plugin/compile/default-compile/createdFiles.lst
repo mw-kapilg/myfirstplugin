@@ -1,0 +1,10 @@
+myfirstplugin\ExampleConfig.class
+myfirstplugin\impl\MyPluginComponentImpl.class
+myfirstplugin\MyFirstTask.class
+myfirstplugin\api\MyPluginComponent.class
+myfirstplugin\ExampleTask.class
+myfirstplugin\ExampleTaskProperties.class
+myfirstplugin\ExampleTaskExporter.class
+META-INF\sisu\javax.inject.Named
+myfirstplugin\ExampleTaskBuilder.class
+myfirstplugin\ExampleTaskConfigurator.class

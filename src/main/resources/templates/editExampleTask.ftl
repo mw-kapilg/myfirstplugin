@@ -1,0 +1,1 @@
+[@ww.textfield labelKey="example.myText" name="myText" required='true'/]
